@@ -1,0 +1,37 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "humanoid robot walking pattern",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --ext .ts,.tsx,.js,.jsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuldasvairagirsmec24/Humanoid-robot-RDV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahuldasvairagirsmec24/Humanoid-robot-RDV/issues"
+  },
+  "homepage": "https://github.com/rahuldasvairagirsmec24/Humanoid-robot-RDV#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.1.0",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.7",
+    "@types/node": "^26.6.11",
+    "@types/react": "^19.3.3",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.6",
+    "typescript": "^6.0.3"
+  }
+}
